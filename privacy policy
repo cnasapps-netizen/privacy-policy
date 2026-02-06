@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gizlilik Politikası</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f5f5f5;
+      color: #111;
+      line-height: 1.6;
+    }
+    h1 { color: #2c3e50; }
+    a { color: #3498db; }
+  </style>
+</head>
+<body>
+  <h1>Gizlilik Politikası</h1>
+
+  <p>Bu uygulama kullanıcı verilerini güvenli bir şekilde işler. Kişisel verileriniz üçüncü kişilerle paylaşılmaz.</p>
+
+  <h2>Toplanan Veriler</h2>
+  <p>Uygulama aşağıdaki bilgileri toplayabilir:</p>
+  <ul>
+    <li>Cihaz bilgileri (model, işletim sistemi)</li>
+    <li>Kullanıcı etkileşimleri (tıklamalar, tercihler)</li>
+    <li>İsteğe bağlı olarak e-posta veya abonelik bilgileri</li>
+  </ul>
+
+  <h2>Veri Kullanımı</h2>
+  <p>Toplanan veriler yalnızca uygulamanın çalışması ve kullanıcı deneyimini iyileştirmek için kullanılır.</p>
+
+  <h2>İletişim</h2>
+  <p>Herhangi bir sorunuz için: <a href="mailto:cnasapps@gmail.com">cnasapps@gmail.com</a></p>
+
+  <p>Güncelleme Tarihi: 06 Şubat 2026</p>
+</body>
+</html>
